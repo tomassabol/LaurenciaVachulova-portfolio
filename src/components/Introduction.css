@@ -1,0 +1,88 @@
+@import url('http://fonts.cdnfonts.com/css/coco-gothic');
+
+.Introduction {
+    background-color: #25325c;
+    height: 100vh;
+    width: 100%;
+    font-family: sans-serif;
+    color: white;
+}
+
+.ahojImage {
+    width: 35vw;
+    margin-left: 7%;
+    margin-top: 3%;
+}
+
+.left-col {
+    float: left;
+    width: 45%;
+    margin-left: 3%;
+}
+
+.language-wrapper img {
+    width: 17vw;
+}
+
+.introduction-left-bottom {
+    margin-left: 7%;
+    margin-top: 2.5%;
+}
+
+.education-text-wrapper {
+    display: flex;
+    width: 70%;
+}
+
+.education-text-wrapper p {
+    flex: 1;
+    color: white;
+    font-size: .9em;
+}
+
+.languages-skills-wrapper {
+    display: flex;
+    margin-top: 3%;
+}
+
+.language-wrapper img {
+    padding-bottom: 10%;
+}
+
+.languages-skills-wrapper  img {
+    display: block;
+    padding-right: 12%;
+}
+
+.language-wrapper .skills-wrapper {
+    float: left;
+}
+
+.skillsTitle {
+    width: 12vw;
+}
+
+.skillsImg {
+    width: 15vw;
+}
+
+.office {
+    width: 6vw;
+}
+
+.right-col {
+    float: right;
+    width: 50%;
+    height: 100%;
+    position: relative;
+}
+
+.right-col img {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    height: 45vw;
+}
