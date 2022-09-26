@@ -1,16 +1,23 @@
 .Home {
-  height: 100%;
+  height: 100vh;
   width: 100%;
   background-color: #fcf9ec;
   text-align: center;
   font-family: sans-serif;
 }
 
-.NavBar img {
-  width: 40vw;
+.teleport-container {
+  height: 100%;
+  width: 100%;
+  position: relative;
 }
 
-.teleport img {
+.teleport-container img{
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
   width: 60vw;
-  padding: 10%;
 }
