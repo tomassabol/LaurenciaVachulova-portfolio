@@ -1,0 +1,19 @@
+.Navbar {
+    display:  flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+.Navbar img {
+  width: 40vw;
+  margin-left: auto;
+}
+    
+.menu-icon {
+    color: #97a3d4;
+    margin-left: auto;
+    padding-right: 20px;
+    font-size: 13px;
+    cursor: pointer;
+}
+    
