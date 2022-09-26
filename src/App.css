@@ -1,8 +1,16 @@
-html{
-  background-color: lightpink;
-}
-
-.App {
+.Home {
+  height: 100%;
+  width: 100%;
+  background-color: #fcf9ec;
   text-align: center;
   font-family: sans-serif;
+}
+
+.NavBar img {
+  width: 40vw;
+}
+
+.teleport img {
+  width: 60vw;
+  padding: 10%;
 }
